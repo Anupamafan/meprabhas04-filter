@@ -138,12 +138,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
-    LOG_TEXT_G = """#NewGroup2
+    LOG_TEXT_G = """#NewGroup3
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
-    LOG_TEXT_P = """#NewUser2
+    LOG_TEXT_P = """#NewUser3
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
