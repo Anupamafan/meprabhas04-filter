@@ -26,7 +26,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 PICS = (environ.get('PICS', 'https://graph.org/file/5fa7700881fc80a870700.jpg https://graph.org/file/cb890ea2dc2b33f2b2920.jpg https://graph.org/file/9917a86ae7723658f7a1a.jpg https://graph.org/file/09fd43a93bd88de8b8fa2.jpg https://graph.org/file/523e375c118eeadd7abfc.jpg https://graph.org/file/64fa4cc725baa9ca13c27.jpg https://graph.org/file/e077013200e1741ca2315.jpg https://graph.org/file/d91d8b72b11b486e21324.jpg https://graph.org/file/9dfab730138a7dba9630f.jpg https://graph.org/file/6a73d263e52c6b6bb9c65.jpg https://graph.org/file/9c99571314cce13b3b888.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_shortLinks/19")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_shortLinks/20")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
@@ -65,11 +65,11 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'iam_channel_admin') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+1QPOjABsKX43MTM1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+agF244SilJ04Mzdl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movies_Telugu_Top')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_shortLinks/19')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/19')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+1QPOjABsKX43MTM1') # Support Chat Link Without https:// or @
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+agF244SilJ04Mzdl') # Support Chat Link Without https:// or @
 
 # True Or False
 PM_SEARCH = bool(environ.get('PM_SEARCH', True)) # In Pm Search Currently Spell Check Doesn't Work.
