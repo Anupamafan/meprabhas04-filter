@@ -65,7 +65,7 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'iam_channel_admin') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+1Ka-0wRWAAM1ZmMx')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+79BrodCVnTo5NDkx')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movies_Telugu_Top')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
