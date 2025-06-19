@@ -68,12 +68,12 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'iam_channel_admin') # owner user
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+79BrodCVnTo5NDkx')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movies_Telugu_Top')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/20')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_shortLinks/23')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+1QPOjABsKX43MTM1') # Support Chat Link Without https:// or @
 
 # True Or False
-PM_SEARCH = bool(environ.get('PM_SEARCH', False)) # In Pm Search Currently Spell Check Doesn't Work.
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
+PM_SEARCH = bool(environ.get('PM_SEARCH', True)) # In Pm Search Currently Spell Check Doesn't Work.
+SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
 VERIFY = bool(environ.get('VERIFY', False))
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
@@ -92,8 +92,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Shortlink Info
-SHORTLINK_URL = environ.get('SHORTLINK_URL', '')
-SHORTLINK_API = environ.get('SHORTLINK_API', '')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkcents.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'e11fdc88060dffdaf4e0f18ed57336d6c94a7a68')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
