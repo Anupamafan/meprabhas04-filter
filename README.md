@@ -5,7 +5,7 @@
   [ Gᴋᴋ™ ] @Movies_Telugu_Top
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Gᴋᴋ™+@Movies_Telugu_Top!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=[Gᴋᴋ™]+@Movies_Telugu_Top!)
 </p>
 
 ## Main Feature 
