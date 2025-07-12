@@ -2,10 +2,10 @@
   <img src="https://graph.org/file/bcd3272c50a5731cf838a.jpg" alt="Gᴋᴋ™ Telugu Movie Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  [ Gᴋᴋ™ ] @Movies_Telugu_Top
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Gᴋᴋ™+@Movies_Telugu_Top!)
 </p>
 
 ## Main Feature 
