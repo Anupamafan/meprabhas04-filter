@@ -92,8 +92,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Shortlink Info
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'bharatlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '3fcae87f2a66502452397b37fcd62e6ca3f04ac2')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '71c3d30cf74a73e1211b974e986c4f368b2d8549')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
